@@ -1,0 +1,66 @@
+body{
+    background-image: url("WEBBMI.png");
+    color: white;
+
+    height:700px;
+}
+   
+#div{
+    
+    background-color: rgb(34, 57, 71);
+    width: 750px;
+    height: 800px;
+    text-align: center;
+    margin-top: 5cm;
+    margin-left: 600px;
+    margin-right:200px; 
+    margin-bottom: 56cm;
+    padding-bottom: 5px;
+    color: white;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+#h1{
+    font-size: 70px;
+    padding-top: 80px;
+}
+#but{
+   color: aliceblue;
+}
+#num2{
+ margin-bottom: 20px;
+padding: 25px;
+ font-size: 30px;
+ border: 1px solid #ccc;
+ border-radius: 15px;
+width:150px;
+}
+#num1{
+margin-bottom: 50px;
+padding: 25px;
+ font-size: 30px;
+ border: 1px solid #ccc;
+ border-radius: 15px;
+ width: 150px;
+
+}
+#wh{
+    font-size: 30%;
+    margin-bottom: 70px;
+    margin-top: 10px;
+}
+.wh{
+    font-size: 47px;
+     margin-top: 10px;
+     padding-top: 40px;
+}
+#button{
+    padding: 25px;
+    border: 1px solid #ccc;
+    border-radius: 15px;
+    width: 250px;
+    font-size: 25px;
+}
+#form{
+    padding-top: 40px;
+}
