@@ -1,7 +1,17 @@
+html,body{
+    padding:0%;
+    margin: 0%;
+    height:100%;
+}
+
 body{
     background-image: url("WEBBMI.png");
+    background-repeat: no-repeat;
+    height: 45%;
+    width: 100%;
     color: white;
-
+    background-size: cover;
+background-position: center;
     height:700px;
 }
    
@@ -12,13 +22,14 @@ body{
     height: 800px;
     text-align: center;
     margin-top: 5cm;
-    margin-left: 600px;
+    margin-left: 1000px;
     margin-right:200px; 
     margin-bottom: 56cm;
     padding-bottom: 5px;
     color: white;
 font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-
+border: 1px solid #ccc;
+border-radius: 45px;
 }
 #h1{
     font-size: 70px;
@@ -33,7 +44,7 @@ padding: 25px;
  font-size: 30px;
  border: 1px solid #ccc;
  border-radius: 15px;
-width:150px;
+width:350px;
 }
 #num1{
 margin-bottom: 50px;
@@ -41,7 +52,7 @@ padding: 25px;
  font-size: 30px;
  border: 1px solid #ccc;
  border-radius: 15px;
- width: 150px;
+ width: 350px;
 
 }
 #wh{
